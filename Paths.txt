@@ -1,0 +1,11 @@
+mainfile:
+/home/geht/Documents/Proyectos/Calculator/Stable/Source/greatcalculator.py
+
+control file:
+/home/geht/Documents/Proyectos/Calculator/Stable/GreatCalculator_1.0-1_i386/DEBIAN/control
+
+executable (in source):
+/home/geht/Documents/Proyectos/Calculator/Stable/Source/dist/greatcalculator
+
+executable (in package):
+/home/geht/Documents/Proyectos/Calculator/Stable/GreatCalculator_1.0-1_i386/usr/local/bin/greatcalculator
